@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { motion, AnimatePresence } from "framer-motion"; // ✅ Added AnimatePresence
 import { mySocials } from "../constants";
-import { AnimatedTooltip } from "../compents/animated-tooltip";
+import { AnimatedTooltip } from "../compents/AnimatedTooltip";
 
 function Navigation() {
   return (
